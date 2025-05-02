@@ -1,2 +1,0 @@
-DEFAULT_FOLDER = crkbd/rev1
-VIA_ENABLE = yes
