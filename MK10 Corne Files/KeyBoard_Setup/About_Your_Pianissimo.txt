@@ -1,0 +1,33 @@
+[Page Last Updated: May 3, 2025] 
+This page of information is still in the works. Come back in the next day or so and see what's new!
+
+ALWAYS ENSURE you plug the right half and left half together BEFORE powering the keyboard. Failing to do so will fry the right half data line. The board will look functional but retain no input for keypress, and display a red LED error on the bottom (it is recommended you change the default color of LEDs so this can be seen)
+
+
+
+=== Features to Come to Guide ===
+
+-- Video tutorial of software setup
+
+-- Explanation of Keyboard care
+
+-- Links to purchase parts in the event replacement is needed
+
+
+=== Keyboard Features ===
+
+-- 6 RGB underlighting (per board)
+
+-- customizable RGB patterns (can turn off)
+
+-- RED LEDs beyond initial setup error indicator 
+   (change the static color so you know)
+
+-- OLED Layer display screens (one each board)
+
+-- Magnetic enclosure for dust proofing (not carrying)
+   The final design is heavier than the 3D prototype
+   Be sure to lift from surfaces with all parts in hand
+   or the bottom-most half will fall.
+
+
