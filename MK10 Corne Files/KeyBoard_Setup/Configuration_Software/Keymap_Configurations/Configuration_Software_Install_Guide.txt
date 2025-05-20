@@ -1,0 +1,19 @@
+Hello! Thank you for your purchase of the Pianissimo Corne Keyboard. If you're here, that means you're interested in all the features your new keyboard has to offer! Lets go over the basics:
+
+
+---- CONFIGURATION SETUP ------'
+As a refresher, this board works by using layers and layer shift keys to optimize typing and reduce finger and hand fatigue. That said, each layer and key on your board is completely customizable. 
+
+To setup up customization, download the software in "Software_Downloads" for your device. 
+Once the step is completed, download the file at the following location > MK10 Corne Files > Configuration_Software > Keymap_Configurations > Default_ make_10_corne.layout.json
+
+This file will be uploaded to the VIA software so the software recognizes your board and you can edit the layout.
+
+1. Open the VIA app and go to the settings tab. 
+2. Select the 3D mode and then turn on the 'developer' option. 
+3. This will create a new tab option where you can upload the file you previously downloaded. 
+
+4. Once this is complete you should see a keyboard layout that resembles your board. 
+5. From there you can select a key and change it to any premade key in the options. 
+6. Additionally you can switch between the 4 layers on the top left and change any items in those layers as well. 
+7. Don't forget to save!
